@@ -142,6 +142,12 @@ a:focus{
 	margin: 0;
 	padding: 0;
 }
-.list{
+#list{
 	float: left;
+}
+#current{
+	width: 160px;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
